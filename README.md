@@ -5,23 +5,23 @@ These projects demonstrate my understanding of **Java programming, Object-Orient
 ---
 # 📊 Project 1: Student Grade Tracker
 
-## 📌 Description
+# 📌 Description
 The **Student Grade Tracker** is a Java console application used to manage and calculate student grades.
 It allows users to input subject marks, calculate total marks, percentage, and determine the final grade.
 
-## ✨ Features
-* Enter marks for multiple subjects
-* Calculate total marks
-* Calculate percentage
-* Display grade automatically
+# ✨ Features
+ Enter marks for multiple subjects
+ Calculate total marks
+ Calculate percentage
+ Display grade automatically
 
-## 🛠 Technologies Used
-* Java
-* OOP Concepts
-* Conditional Statements
-* Loops
+# 🛠 Technologies Used
+Java
+ OOP Concepts
+ Conditional Statements
+ Loops
 
-## ▶ How to Run
+# ▶ How to Run
 1. Open the project in any Java IDE.
 2. Compile the program.
 3. Run `Main.java`.
@@ -31,22 +31,22 @@ It allows users to input subject marks, calculate total marks, percentage, and d
 
 # 🏨 Project 2: Hotel Reservation System
 
-## 📌 Description
+# 📌 Description
 The **Hotel Reservation System** is a Java-based console application that helps manage hotel room bookings.
 
-## ✨ Features
-* Add hotel rooms
-* View available rooms
-* Make reservations
-* Store room and reservation data using files
+# ✨ Features
+ Add hotel rooms
+ View available rooms
+ Make reservations
+ Store room and reservation data using files
 
-## 🛠 Technologies Used
-* Java
-* Object-Oriented Programming (OOP)
-* ArrayList
-* File Handling
+# 🛠 Technologies Used
+ Java
+ Object-Oriented Programming (OOP)
+ ArrayList
+ File Handling
 
-## ▶ How to Run
+# ▶ How to Run
 1. Open the project in a Java IDE.
 2. Compile the program.
 3. Run `Main.java`.
@@ -55,5 +55,5 @@ The **Hotel Reservation System** is a Java-based console application that helps 
 ---
 
 # 👩‍💻 Author
-**Areesha Hakeem**
+*Areesha Hakeem*
 Java Developer | CodeAlpha Intern
