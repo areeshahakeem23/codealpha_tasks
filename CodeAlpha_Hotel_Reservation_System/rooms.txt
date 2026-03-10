@@ -1,0 +1,2 @@
+1,luxury,30000,true
+2,suite,10000,false
